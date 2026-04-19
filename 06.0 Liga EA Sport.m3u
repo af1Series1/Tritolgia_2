@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png" group-title="MENÚ PRINCIPAL",Movistar Liga
+https://TU_URL/DAZN.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png" group-title="MENÚ PRINCIPAL",Dazn Liga
+https://TU_URL/DAZN.m3u
+
+#EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",Dazn Liga Bar
+https://TU_URL/EuroSport.m3u

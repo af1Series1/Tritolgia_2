@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="MENÚ PRINCIPAL",Movistar Liga
 https://TU_URL/DAZN.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png" group-title="MENÚ PRINCIPAL",Dazn Liga
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png" group-title="MENÚ PRINCIPAL",Dazn Liga
 https://TU_URL/DAZN.m3u
 
-#EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",Dazn Liga Bar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png" group-title="MENÚ PRINCIPAL",Dazn Liga Bar
 https://TU_URL/EuroSport.m3u

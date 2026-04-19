@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8TQBms5/logo4-4-194132.png" group-title="PRIMERA RFEF",1 RFEF (1080)(*) [75cfc]
+acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8TQBms5/logo4-4-194132.png" group-title="PRIMERA RFEF",1 RFEF (1080)(**) [8c351]
+acestream://854ff9c607101791346111cd2366a392c3b8c351

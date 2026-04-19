@@ -1,0 +1,514 @@
+#EXTM3U
+
+#EXTINF:-1, M. LA LIGA 1 (FHD)
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1, M. LA LIGA 1 (FHD)
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1, M. LA LIGA 1 (1080)
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1, M. LA LIGA 1 (SD)
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1, M. LA LIGA 2 (FHD)
+acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+#EXTINF:-1, M. LA LIGA 2 (SD)
+acestream://f31a586422c9244196c810c84b6c85da350318a5
+#EXTINF:-1, M. LA LIGA 3 (FHD)
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1, M. LA LIGA 3 (SD)
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
+#EXTINF:-1, M. LA LIGA 4 (FHD)
+acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
+
+#EXTINF:-1,DAZN LA LIGA 1 (FHD)
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1,DAZN LA LIGA 1 (FHD)
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1,DAZN LA LIGA 1 (FHD)
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1,DAZN LA LIGA 1 (SD)
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1,DAZN LA LIGA 2 (FHD)
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1,DAZN LA LIGA 2 (SD)
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+
+#EXTINF:-1, M. LA LIGA BAR (FHD)
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1, M. LA LIGA BAR (FHD)
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:-1, LaLiga HyperMotion (1080)(*)
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1, LaLiga HyperMotion (1080)(**)
+acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+#EXTINF:-1, LaLiga HyperMotion (720)(*)
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1, LaLiga HyperMotion (720)(**)
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1, LaLiga HyperMotion 2 (1080)(**)
+acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
+#EXTINF:-1, LaLiga HyperMotion 2 (780)(*)
+acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
+#EXTINF:-1, LaLiga HyperMotion 3 (1080)(**)
+acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f
+
+#EXTINF:-1,DAZN F1 (FHD)
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1,DAZN F1 (FHD)
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1,DAZN F1 (FHD)
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1,DAZN F1 (SD)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+
+#EXTINF:-1, DAZN 1 
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1, DAZN 2 
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1, DAZN 2 
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+
+#EXTINF:-1, LA LIGA CAMPEONES 1 (4 K)(NewEra)
+acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewEra)
+acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewEra)
+acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewEra)
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewEra)
+acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewEra)
+acestream://a9025d4e168764248d33129c30940502cea0e1c2
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewEra)
+acestream://47223e64a576c21bd61e818a42397a753d34fba5
+#EXTINF:-1, LA LIGA CAMPEONES 1 (FHD)(NewLoop)
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1, LA LIGA CAMPEONES 2 
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1, LA LIGA CAMPEONES 2 (FHD)(NewEra)
+acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1, LA LIGA CAMPEONES 2 (FHD)(NewEra)
+acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+#EXTINF:-1, LA LIGA CAMPEONES 2 (FHD)(NewEra)
+acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+#EXTINF:-1, LA LIGA CAMPEONES 2 (FHD)(NewEra)
+acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
+
+#EXTINF:-1, LA LIGA CAMPEONES 3 (FHD)(NewEra)
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1, LA LIGA CAMPEONES 3 (FHD)(NewEra)
+acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243
+#EXTINF:-1, LA LIGA CAMPEONES 3 (FHD)(NewEra)
+acestream://15127320406cf6a072c4f485f31c841d7d3e62f3
+
+#EXTINF:-1, LA LIGA CAMPEONES 4 (FHD)(NewEra)
+acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29
+#EXTINF:-1, LA LIGA CAMPEONES 4 (FHD)(NewEra)
+acestream://f1219582a3059e7fff2db22e69475c45cbc84356
+#EXTINF:-1, LA LIGA CAMPEONES 4 (SD)(NewEra)
+acestream://152169ce99e1fd27f2249c18384a121079cdef29
+
+#EXTINF:-1, LA LIGA CAMPEONES 5 (FHD)(NewEra)
+acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
+#EXTINF:-1, LA LIGA CAMPEONES 5 (FHD)(NewEra)
+acestream://d2cf12b65c8a540a50bd74c3db1ce59ae8d05623
+
+#EXTINF:-1, LA LIGA CAMPEONES 6 (FHD)(NewEra)
+acestream://976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1, LA LIGA CAMPEONES 7 (FHD)(NewEra)
+acestream://83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1, LA LIGA CAMPEONES 8 (FHD)(NewEra)
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1, LA LIGA CAMPEONES 9 (FHD)(NewEra)
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1, LA LIGA CAMPEONES 10 (FHD)(NewEra)
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1, LA LIGA CAMPEONES 11 (FHD)(NewEra)
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1, LA LIGA CAMPEONES 12 (FHD)(NewEra)
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1, LA LIGA CAMPEONES 13 (FHD)(NewEra)
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+
+#EXTINF:-1, MOVISTAR DEPORTES 1
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1, MOVISTAR DEPORTES 1
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1, MOVISTAR DEPORTES 2
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1, MOVISTAR DEPORTES 5
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1, MOVISTAR DEPORTES 6
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1, MOVISTAR DEPORTES 7
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
+
+#EXTINF:-1, MOVISTAR PLUS (1080)
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+
+#EXTINF:-1, #VAMOS (1080)
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1, #VAMMOS (720)
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+
+#EXTINF:-1, MOVISTAR #ELLAS (1080)
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+
+#EXTINF:-1,GOL PLAY (1080p)
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1,M. Golf (1080)
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1,M. Golf 2 
+acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1,TDP (TeleDeporte) (1080p)
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1,LA 1 (1080)(Multiaudio)
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1,LA 1 (1080)(Multiaudio)
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1,LA 2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1,LA 1 UHD (1080)(Multiaudio)
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1,CUATRO TV
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1,TeleCinco
+acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1,BE MAD (1080p)
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1,#0 MOVISTAR (1080p)
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1,BARCA TV (720)
+acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1,ESPORT 3 CAT (1080p)
+acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
+#EXTINF:-1,REAL MADRID TV (1080)
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
+
+#EXTINF:-1,Tennis Channel
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+
+#EXTINF:-1,EuroSport 1 (1080)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1,EuroSport 2 (1080)
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1,Sport Tv 1 (1080p)
+acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1,Sport Tv 2 (1080p)
+acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1,Sport Tv 3 (1080p)
+acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+
+#EXTINF:-1,ESPN Argentina (1080)
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1,ESPN 3 Argentina (1080)
+acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
+#EXTINF:-1,ESPN Uruguay (1080)
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1,ESPN 2 Uruguay (1080)
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1,ESPN 3 Uruguay (1080)
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1,ESPN Extra Uruguay (1080)
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1,ESPN DEPORTES
+acestream://3ce776c6eac31081239903cd45c152b27f95af63
+#EXTINF:-1,ESPN HD (US)
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1,ESPN 2 (BE)
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1,ESPN Colombia
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1,ESPN 2 Colombia
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1,ESPN 3 Colombia
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1,ESPN Extra Colombia
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+
+#EXTINF:-1,BT Sport1 (UK) (1080)
+acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
+#EXTINF:-1,BT Sport1 (UK) (1080)
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1,BT Sport2 (UK (1080))
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1,BT Sport3 (UK) (1080)
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1,BT Sport4 (UK) (1080)
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1,BT Sport5 (UK) (1080)
+acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
+#EXTINF:-1,BT Sport6 (UK) (1080)
+acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
+
+#EXTINF:-1,Sky Sport F1 (1080)
+acestream://55a762c1e48db88542771a476c65ffc309bd7262
+#EXTINF:-1,Sky Sport F1
+acestream://3251c61c831ddeae6b7feeae704a3f6c5c975e02
+#EXTINF:-1,Sky Sport F1
+acestream://28710e9057927317c869b11d669c28a4d77a6ab3
+#EXTINF:-1,Sky Sport Football (UK)    
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1,Sky Sport Main Event (UK)
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1,ViaPlay Sports 1
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1,ViaPlay Sports 2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1,beIN SPORTS 1 (FR)
+acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
+#EXTINF:-1,beIN SPORTS 2 (FR)
+acestream://705e0086f2156e1d76609393666b95a5bd43bebb
+#EXTINF:-1,beIN SPORTS 1  (BE)
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1,beIN SPORTS 2  (BE)
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1,beIN SPORTS —
+acestream://41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1,beIN SPORTS Xtra—
+acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
+
+#EXTINF:-1,Eleven Sport 1 (BE)
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1,Eleven Sport 2 (PL)
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1,Eleven Sport 3 (PL)
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1,Eleven Sport 4 (PL)
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+#EXTINF:-1,Extreme Sports 1
+acestream://fc29afec151a8097ba65241acf3e0da791850e6c
+#EXTINF:-1,Extreme Sports 2
+acestream://56239e8c8257170861da94a32a86d59c716a7071
+#EXTINF:-1,Extreme Sports 3 (PL)
+acestream://73ff07648e367efebd94636047b07625f664a082
+
+#EXTINF:-1,Eurosport 360 HD 1 (DE)
+acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
+#EXTINF:-1,Eurodigital 360 HD 2 (DE)
+acestream://57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1,Eurosport 360 HD 3 (DE)
+acestream://7adbca42657ace1fe228142d351d0896974bbe0c
+#EXTINF:-1,Eurosport 360 HD 4 (DE)
+acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+#EXTINF:-1,Eurosport 360 HD 5 (DE)
+acestream://148921c4dda96df445e253d6f26c4d092bf85809
+#EXTINF:-1,Eurosport 360 HD 6 (DE)
+acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
+#EXTINF:-1,Eurosport 360 HD 7 (DE)
+acestream://b18657f64507cc859cd7edef1aef90feb053e791
+#EXTINF:-1,Eurosport 360 HD 8 (DE)
+acestream://8f4f572005ca2557743474087aa622693ba9b5fe
+#EXTINF:-1,Eurosport 360 HD 9 (DE)
+acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47
+
+#EXTINF:-1,Red Bull TV
+acestream://f1e1e9cce7297a749a5bb2e75c1520f9ce73a83b
+#EXTINF:-1,Red Bull TV HD
+acestream://647d19df70ee35100d0e95bc62ddebeebec1fabb
+#EXTINF:-1,Red Bull TV UHD
+acestream://fefd91766cef2af2bf4ded328633fb01051d6df9
+#EXTINF:-1,RED BULL TV (2+)
+acestream://a0270364634d9c49279ba61ae3d8467809fb7095
+
+#EXTINF:-1,Nba Tv (US)
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1,BBC ONE UK	
+acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5
+#EXTINF:-1,BBC ONE UK	
+acestream://a30c60fe37ef98a276b0daafcdc0527f534142c5
+
+#EXTINF:-1,TV BASE UK	
+acestream://89ac5fc327a2524851201768238295b27e42c068
+
+#EXTINF:-1,SKY ONE UK	
+acestream://d9135fcc98750c7baa7f0911828ca0dfd0d32054
+#EXTINF:-1,SKY LIVING UK	
+acestream://a1323768c7e138c7102469791d6a1add5a625b09
+
+#EXTINF:-1,FOX Sport 1	
+acestream://9a8fd4918cb4f864e0d63a6821a55806f68dc0cc
+
+#EXTINF:-1,TSN 1	
+acestream://7f9de594019b35ab84b44d1015f31ca9c8ca7813
+#EXTINF:-1,beIN Sports	
+acestream://7064ed08ee876a36061d43b646a00524f27141fd
+#EXTINF:-1,TVP	
+acestream://d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1,ESPN	
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+
+#EXTINF:-1,SKY SPORTS Main Event UK	
+acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb
+#EXTINF:-1,SKY SPORTS Premier League UK	
+acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9
+#EXTINF:-1,SKY SPORTS Football HD UK	
+acestream://9eba690be925a98e8aecfc758070b874e19260c6
+#EXTINF:-1,SKY SPORTS Arena HD UK
+acestream://1c14883164419285b005a7f96d502489e80b8dc4
+#EXTINF:-1,SKY SPORTS Action HD UK
+acestream://88ed3eb027715170bbc30d6e6278401917901c2c
+#EXTINF:-1,SKY SPORTS Cricket HD UK	
+acestream://bd58392b1180b79c50439bd8beb051ea1d56fa38
+#EXTINF:-1,SKY SPORTS Golf HD UK
+acestream://7f0f325c3eafce8bfedfc43a9ddb13f063bf0879
+#EXTINF:-1,SKY SPORTS F1 HD UK	
+acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59
+#EXTINF:-1,SKY SPORTS F1 UK	
+acestream://fd931cb7b45614de6ee10eea838098892dd8a5de
+#EXTINF:-1,SKY SPORTS 1 UK	
+acestream://e061202217ea02d1c62e03688eaa3a60ee7b6829
+#EXTINF:-1,SKY SPORTS 2 UK	
+acestream://e524f1380a0f1549895f6727368c8ddffb3a8c37
+#EXTINF:-1,SKY SPORTS 3 UK	
+acestream://c4ff54b834532047fc0aa1779d17281f193d6938
+#EXTINF:-1,SKY SPORTS 4 UK	
+acestream://2d90f57b2c8a5e12b30fed41b6b5ac7a122f68ca
+#EXTINF:-1,SKY SPORTS 5 UK	
+acestream://bd90b972fafedec4211b18b6c34a5c2253ae94de
+#EXTINF:-1,BT SPORT 1 UK	
+acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
+#EXTINF:-1,BT SPORT 2 UK	
+acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6
+#EXTINF:-1,BT SPORT 3 UK	
+acestream://66ce42b59cd7028be149ee7e7ca17066910b2db3
+#EXTINF:-1,BT SPORT ESPN UK	
+acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406
+#EXTINF:-1,PREMIER SPORTS UK	
+acestream://e4d9f7188e4403523c32717a98093671f8931101
+#EXTINF:-1,RACING UK	
+acestream://6326e6d9072a6c89c34635c399c40c847838f912
+#EXTINF:-1,EIR SPORT 1 UK	
+acestream://75703cf02401ba8a402c77989bfaaf3895cb12ea
+#EXTINF:-1,EIR SPORT 2 UK	
+acestream://0cec6c0299c99f45c1859398d150c3a48e6d8b2e
+#EXTINF:-1,TVP 1	
+acestream://333bbad5063ae7ca464958e3138e8e0a5166d99f
+#EXTINF:-1,EXTREME SPORTS	
+acestream://d8f15fa7affd8a41f53dae7d0b6091f46f7967ba
+#EXTINF:-1,ELEVEN HD POL	
+acestream://9af6e701ebae1408c1b0d98fd1e309d1ff800217
+#EXTINF:-1,ELEVEN SPORT HD POL	
+acestream://96694c37ca8c5b64eeb35314b3461bf2dab03042
+#EXTINF:-1,ELEVEN EXTRA HD POL	
+acestream://3be1ca335167d453e9fbbdc5f73a9ea6adee083c
+#EXTINF:-1,NSPORT HD POL	
+acestream://27399f672dc8fdbaea405dd8f94555d5868de931
+#EXTINF:-1,TVP SPORT HD POL	
+acestream://a22c99488ee267b684b281760431fae72e887eae
+#EXTINF:-1,POLSAT SPORT HD POL	
+acestream://96694c37ca8c5b64eeb35314b3461bf2dab03042
+#EXTINF:-1,POLSAT SPORT EXTRA HD POL	
+acestream://6798319351409f1f99617cfe2ea562748771ddfc
+#EXTINF:-1,CANAL+ POL	
+acestream://17f0b2fcd49baba34c2a601f5120c6a440bc89f1
+#EXTINF:-1,CANAL+SPORT HD POL	
+acestream://9c49b233876731d02aa9d0a586381a9e9ff6a644
+#EXTINF:-1,CANAL+SPORT 2 HD POL	
+acestream://f00e6dc58e57f500cde35db3fb1f24193cbe1e99
+#EXTINF:-1,EUROSPORT 1 HD POL	
+acestream://3492f732afe556df499f03c617b3ca69634eb86b
+#EXTINF:-1,ZIGGO SPORT VOETBAL NL	
+acestream://d5a5b2c97dfc0624a5fd5eb121a0014e0193219b
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 NL	
+acestream://75ba5470b6c81f3a46cd9f1eaa81a49f2b8ce109
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 NL	
+acestream://de5c617162d0a7aaa5c15034c7b51671fbcc72a2
+#EXTINF:-1,C MORE SPORT HD SWE	
+acestream://3b85ee777663c6d5409dd5dc15f1403b19c877bf
+#EXTINF:-1,VIASAT FOTBALL SK	
+acestream://9a5af1f1957445b090dea738b925875d1c91b7c5
+#EXTINF:-1,SFR SPORT 1 FR	
+acestream://05665fa2a1f1ec62e62920cfec3751a0e9586f0d
+#EXTINF:-1,BEIN SPORTS 1 FR	
+acestream://00ec28a5137eff6e4274f28391e9577bc885f32b
+#EXTINF:-1,EUROSPORT DE	
+acestream://116d6a4aaf1f23580f224583a5de63adb59b7caf
+#EXTINF:-1,SKY SPORT NEWS DE	
+acestream://7b1654c70e925413a0576736eb3ece679c3a364d
+#EXTINF:-1,SKY SPORT 1 DE	
+acestream://e10b216f056d5183bb3c785f074e7d0abea93a7f
+#EXTINF:-1,SKY SPORT 2 DE	
+acestream://e6d7a349c9a6f9e231b713e46e927fa4df84c61b
+#EXTINF:-1,SKY BUNDESLIGA 1 DE	
+acestream://30fb246c92a76538e186d4119ed2287bdff1c439
+#EXTINF:-1,SPORT 1+ DE	
+acestream://02d7a8c47e049589bdc1618f9939fcd07326b650
+#EXTINF:-1,SPORTDIGITAL HD DE	
+acestream://f62005a3d1cb2ac0396357dc0b245c8cd64805da
+#EXTINF:-1,BEIN LA LIGA ES	
+acestream://f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1
+#EXTINF:-1,BEIN SPORTS 1 ES	
+acestream://2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc
+#EXTINF:-1,DOLCE SPORT 5 RO	
+acestream://9a2f12aba70b745586fa3c47fa404451acfd9110
+#EXTINF:-1,DOLCE SPORT 6 RO	
+acestream://1af3232d1bd5b320838c0fee8b366bc5b39a544b
+#EXTINF:-1,DIGI SPORT 1 RO	
+acestream://1c8963217116ba5be7330f3b3d53a64945ef6ac6
+#EXTINF:-1,DIGI SPORT 2 RO	
+acestream://24c35436605b2f39fbf7a1e13213bf6df2249a82
+#EXTINF:-1,DIGI SPORT 3 RO	
+acestream://78468aadf7cb54564f4cc4147b7e7b3d576dbba9
+#EXTINF:-1,DIGI SPORT 4 RO	
+acestream://35f92608c573da5e6f3615e80bca55c14663efb0
+#EXTINF:-1,SPORT TV 1 HD PT	
+acestream://c175f79bfa5698dff00ae3467068336019b3912e
+#EXTINF:-1,SPORT TV 2 PT	
+acestream://89122d5e60866e9127a5f3849170031b16402adc
+#EXTINF:-1,SPORT TV 3 PT	
+acestream://cf72f0fa0cee438cca43f2ea8299d04d1bf4c9d5
+#EXTINF:-1,SUPER TENNIS HD IT	
+acestream://5c40bb4a163fe01ad299ca564047af35b3f4f280
+#EXTINF:-1,SKY SPORTS 1 IT	
+acestream://986ea9418dd4604df704e04ff9dc44948562d839
+#EXTINF:-1,A Sport HD TR	
+acestream://85ba1e6372f065215e7be4c36427395fe7605c8b
+#EXTINF:-1,AFN Sports HD ñ 8 months	
+acestream://1202c004338963090e2da1e960392f3a12b24177
+#EXTINF:-1,AFN Sports HD ñ 12 months	
+acestream://1202c004338963090e2da1e960392f3a12b24177
+#EXTINF:-1,AFN Sports HD ñ 1 Year	
+acestream://99e4657478e7b768ace5281ece419f9899e663e2
+#EXTINF:-1,(HD) (Sky Sports F1)	
+acestream://da98022b9411276b0cc52abe9a4c8447585a42ee
+#EXTINF:-1,(HD) (Sky Sports F1)	
+acestream://669e45e020889a252e934e17633f2b65b3f98708
+#EXTINF:-1,(HD) (Sky Sports F1)	
+acestream://2e56d6b689ca51f13986004138884abb4883541c
+#EXTINF:-1,(HD) (Sky Sports F1)	
+acestream://5101cac5caeb452a10441d3501cd138d8623e8d3
+#EXTINF:-1,(HD) (Sky Sports F1)	
+acestream://16d9b3d8dd64f914a5750f0a0f30ff977421bd29
+#EXTINF:-1,(SD) (Sky Sports F1)	
+acestream://f3122e3ac928c805e8244438d5b954bd77ae960c
+#EXTINF:-1,(520p) (Sky Sports F1)	
+acestream://218963ea8f0f38e10e38a8d1d55bcf316ae5da16
+#EXTINF:-1,BT Sport 1	
+acestream://c86789ad78c1859f3a0e649f57138e6c8248ef27
+#EXTINF:-1,BT Sport 2	
+acestream://11c0059038fab62112d6d561e3ea8c10c2dedd59
+#EXTINF:-1,BT Sport 3	
+acestream://5a4cfb20808ee9d81ac8154eab4fffc08d9e4583
+#EXTINF:-1,Fox Sport 1 US	
+acestream://6a3b3e9ac8421d471784c0dda3db235dd14aed30
+#EXTINF:-1,Fox Sport 2 US	
+acestream://acaabe49d0ccdb933f8af082b99c79e599388365
+#EXTINF:-1,Sky Sports Main Event	
+acestream://2906cffd84e98799745204bfc4a0b2c18eb66eb7
+#EXTINF:-1,Sky Sports Arena	
+acestream://24e53eeeae94ae021ad38d1d883a55d56bf7ad1e
+#EXTINF:-1,BT SPORT 1 UK	
+acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
+#EXTINF:-1,BT SPORT 2 UK	
+acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6
+#EXTINF:-1,BT SPORT 3 UK	
+acestream://66ce42b59cd7028be149ee7e7ca17066910b2db3
+

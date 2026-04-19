@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/03.%20D
 https://TU_URL/EuroSport.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga Hypermotion
-https://TU_URL/LaLigaHyperMotion.m3u
+https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/05.%20Liga%20HyperMotion.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga EA Sport
 https://TU_URL/LaLigaHyperMotion.m3u

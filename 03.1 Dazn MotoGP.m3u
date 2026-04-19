@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg" group-title="Dazn MotoGP",DAZN MotoGP (1080)(Elcano) [558c]
+acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg" group-title="Dazn MotoGP",DAZN MotoGP (1080)(Elcano) [abac]
+acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg" group-title="Dazn MotoGP",DAZN MotoGP (1080)(Elcano) [e1a5]
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5

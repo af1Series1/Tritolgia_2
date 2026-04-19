@@ -1,18 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,DAZN 1 (1080)(*)
-acestream://dddff67edfa7061f643ec5ae0be110169850363d"
-#EXTINF:-1,DAZN 1 (720)(*)
-acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
-#EXTINF:-1,DAZN 1 ()(**)
-acestream://9afc89481b721ce6c326c85e47148676077b8e62"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="Dazn",DAZN 1 (1080)(*) [0363d]
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
 
-#EXTINF:-1,DAZN 2 (1080)(**)
-acestream://d60b8c154828cb990b7bb1570764b215bd979e74"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="Dazn",DAZN 1 (720)(*) [07884]
+acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 
-#EXTINF:-1,DAZN 3 (1080)(*)
-acestream://908bc5e7ae52afc06e40793b6db749dba11a1780"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="Dazn",DAZN 1 ()(**) [b8e62]
+acestream://9afc89481b721ce6c326c85e47148676077b8e62
 
-#EXTINF:-1,DAZN 4 (1080)(*)
-acestream://d669c6cee7173a1c8994075f7050a6526655b1dc"
-        }
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="Dazn",DAZN 2 (1080)(**) [79e74]
+acestream://d60b8c154828cb990b7bb1570764b215bd979e74
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="Dazn",DAZN 3 (1080)(*) [a1780]
+acestream://908bc5e7ae52afc06e40793b6db749dba11a1780
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="Dazn",DAZN 4 (1080)(*) [5b1dc]
+acestream://d669c6cee7173a1c8994075f7050a6526655b1dc

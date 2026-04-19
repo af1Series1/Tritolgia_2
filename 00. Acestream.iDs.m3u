@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/04.%20D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga Hypermotion
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/05.%20Liga%20HyperMotion.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga EA Sport
-https://TU_URL/LaLigaHyperMotion.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM8kNBZq/La-Liga-New.png" group-title="MENÚ PRINCIPAL",Liga EA Sport
+https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/06.0%20Liga%20EA%20Sport.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Primera RFEF
 https://TU_URL/LaLigaHyperMotion.m3u

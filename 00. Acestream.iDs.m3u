@@ -3,11 +3,26 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png" group-title="MENÚ PRINCIPAL",Dazn
 https://TU_URL/DAZN.m3u
 
-
-
 #EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",EuroSport
+https://TU_URL/EuroSport.m3u
+
+#EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",Dazn F1
+https://TU_URL/EuroSport.m3u
+
+#EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",Dazn MotoGP
 https://TU_URL/EuroSport.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga Hypermotion
 https://TU_URL/LaLigaHyperMotion.m3u
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga EA Sport
+https://TU_URL/LaLigaHyperMotion.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Primera RFEF
+https://TU_URL/LaLigaHyperMotion.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga Campeones
+https://TU_URL/LaLigaHyperMotion.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Movistar Deportes
+https://TU_URL/LaLigaHyperMotion.m3u

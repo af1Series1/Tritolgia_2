@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="MENÚ PRINCIPAL",Dazn
-https://TU_URL/DAZN.m3u
+https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/01.%20Dazn.m3u
 
 #EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",EuroSport
 https://TU_URL/EuroSport.m3u

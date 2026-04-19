@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png" group-title="DAZN LA LIGA BAR",DAZN 1 BAR (FHD)(New Era) [5ae3]
+acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png" group-title="DAZN LA LIGA BAR",DAZN 1 BAR (HD)(New Era) [b8f7]
+acestream://97d663cba59ddd8aca032267169019b544dcb8f7
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png" group-title="DAZN LA LIGA BAR",DAZN 2 BAR (FHD)(New Era) [b57c]
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c

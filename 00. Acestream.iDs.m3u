@@ -21,8 +21,8 @@ https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/06.0%20
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8TQBms5/logo4-4-194132.png" group-title="MENÚ PRINCIPAL",Primera RFEF
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/07.%20Primera%20RFEF.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga Campeones
-https://TU_URL/LaLigaHyperMotion.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFLRGSbF/logo-champions.png" group-title="MENÚ PRINCIPAL",Liga Campeones
+https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/08.%20Liga%20Campeones.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Movistar Deportes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png" group-title="MENÚ PRINCIPAL",Movistar Deportes
 https://TU_URL/LaLigaHyperMotion.m3u

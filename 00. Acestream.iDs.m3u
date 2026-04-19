@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png" group-title="MENÚ PRINCIPAL",DAZN
+https://TU_URL/DAZN.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",La Liga HyperMotion
+https://TU_URL/LaLigaHyperMotion.m3u
+
+#EXTINF:-1 tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="MENÚ PRINCIPAL",EuroSport
+https://TU_URL/EuroSport.m3u

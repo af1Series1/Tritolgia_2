@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="MENÚ PRINCIPAL",Dazn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png" group-title="ACESTREAM",Dazn
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/01.%20Dazn.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png" group-title="MENÚ PRINCIPAL",EuroSport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png" group-title="ACESTREAM",EuroSport
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/02.%20Eurosport.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png" group-title="MENÚ PRINCIPAL",Dazn F1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png" group-title="ACESTREAM",Dazn F1
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/03.%20Dazn%20F1.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg" group-title="MENÚ PRINCIPAL",Dazn MotoGP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df4PTF0P/Canal-Dazn-Moto-GP.jpg" group-title="ACESTREAM",Dazn MotoGP
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/04.%20Dazn%20MotoGP.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="MENÚ PRINCIPAL",Liga Hypermotion
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png" group-title="ACESTREAM",Liga Hypermotion
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/05.%20Liga%20HyperMotion.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM8kNBZq/La-Liga-New.png" group-title="MENÚ PRINCIPAL",Liga EA Sport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM8kNBZq/La-Liga-New.png" group-title="ACESTREAM",Liga EA Sport
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/06.0%20Liga%20EA%20Sport.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8TQBms5/logo4-4-194132.png" group-title="MENÚ PRINCIPAL",Primera RFEF
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8TQBms5/logo4-4-194132.png" group-title="ACESTREAM",Primera RFEF
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/07.%20Primera%20RFEF.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFLRGSbF/logo-champions.png" group-title="MENÚ PRINCIPAL",Liga Campeones
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFLRGSbF/logo-champions.png" group-title="ACESTREAM",Liga Campeones
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/08.%20Liga%20Campeones.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png" group-title="MENÚ PRINCIPAL",Movistar Deportes
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png" group-title="ACESTREAM",Movistar Deportes
 https://raw.githubusercontent.com/af1Series1/Tritolgia_2/refs/heads/main/09.%20Movistar%20Deportes.m3u
